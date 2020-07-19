@@ -9,8 +9,9 @@ The purpose of the project is to advance the security of the database system for
 
 
 The project include:
-• 3 MySQL Databases.
-• PHP Laravel API.
-• Android Application.
-• Desktop Application.
-• Software document.
+
+- 3 MySQL Databases.
+- PHP Laravel API.
+- Android Application.
+- Desktop Application.
+- Software document.
